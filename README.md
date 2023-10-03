@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Auroob Ahmad</h1>
 <h3 align="center">Software Engineer @ Breu | Full Stack Development</h3>
 
----
 [![](https://visitcount.itsvg.in/api?id=Auroob&icon=0&color=3)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **GoLang**
